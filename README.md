@@ -1,1 +1,3 @@
-# ErezWeiss1.github.io
+# https://erezweiss1.github.io/
+
+A SHOWCASE OF PROJECTS USING SQL, TABLUE, EXCEL, GOOGLE FINNACE AND PYTHON
